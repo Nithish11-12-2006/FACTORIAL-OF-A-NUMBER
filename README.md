@@ -54,13 +54,14 @@ END
 ```
 OUTPUT
 
-(Keil output screenshot can be inserted here)
+<img width="1920" height="1200" alt="NITHISH(FACT)" src="https://github.com/user-attachments/assets/c1af6379-3aac-4533-a94e-5e17f3eb102d" />
+<img width="693" height="466" alt="NITHISH(FACTOP)" src="https://github.com/user-attachments/assets/d02b77f6-1ab2-44ff-994b-4f36f82a014d" />
 
 ---
 MANUAL CALCULATIONS
+![NITHISH(FACTORIAL)](https://github.com/user-attachments/assets/80161d9b-68e9-4e28-a286-b96aed2f67f7)
 
 ---
-
 RESULT
 
 Thus, the factorial of a number was calculated and executed successfully using 8051 Keil.
